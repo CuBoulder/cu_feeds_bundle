@@ -11,3 +11,4 @@ dependencies[] = cu_rss_views
 dependencies[] = uuid
 
 bundle_cache_clear = 1
+bundle_group = 'addon_bundles'
